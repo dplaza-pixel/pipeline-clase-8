@@ -1,0 +1,22 @@
+{
+  "name": "pipeline-clase-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building project...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dplaza-pixel/pipeline-clase-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dplaza-pixel/pipeline-clase-8/issues"
+  },
+  "homepage": "https://github.com/dplaza-pixel/pipeline-clase-8#readme"
+}
